@@ -21,8 +21,6 @@
 
 # Hey there, I'm Isabelle ♡
 
-</div>
-
 <br />
 
 ## ✦ About Me
@@ -31,53 +29,12 @@
 <tr>
 <td width="65%" valign="top">
 
-### Hi, I'm [YOUR_NAME] 🌷
-
-I'm a **[YOUR_ROLE]** based in **[YOUR_LOCATION]**, passionate about creating thoughtful, polished, and technically interesting software.
-
-- 🎓 Currently **[YOUR_CURRENT_STATUS]**
-- 💻 Working with **[YOUR_MAIN_TECHNOLOGIES]**
-- 🌱 Learning **[WHAT_YOU_ARE_LEARNING]**
-- 🧠 Interested in **[YOUR_INTEREST_1]**, **[YOUR_INTEREST_2]**, and **[YOUR_INTEREST_3]**
-- 🛠️ Currently building **[YOUR_CURRENT_PROJECT]**
-- ✨ I love **[PERSONAL_INTEREST_1]**, **[PERSONAL_INTEREST_2]**, and **[PERSONAL_INTEREST_3]**
-- 💬 Ask me about **[TOPIC_1]**, **[TOPIC_2]**, or **[TOPIC_3]**
-- 📫 Reach me at **[YOUR_EMAIL]**
-- 🌐 Portfolio: **[YOUR_PORTFOLIO_URL]**
-
-> *"[YOUR_FAVORITE_QUOTE_OR_TAGLINE]"*
-
-</td>
-
-<td width="35%" align="center" valign="middle">
-
-<img
-  src="[YOUR_PROFILE_IMAGE_OR_GIF_URL]"
-  width="280"
-  alt="[YOUR_NAME]"
-/>
-
-</td>
-</tr>
-</table>
-
-<br />
-
-<div align="center">
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=F8BBD0"
-  width="85%"
-/>
-
-<br /><br />
-
 ## ✦ Tech Stack
 
 ### Languages
 
 <img
-  src="https://skillicons.dev/icons?i=[LANGUAGE_1],[LANGUAGE_2],[LANGUAGE_3],[LANGUAGE_4],[LANGUAGE_5]&theme=light"
+  src="https://skillicons.dev/icons?i=java,cpp,python,c,js,ts&theme=light"
   alt="Programming Languages"
 />
 
@@ -86,7 +43,7 @@ I'm a **[YOUR_ROLE]** based in **[YOUR_LOCATION]**, passionate about creating th
 ### Frameworks & Libraries
 
 <img
-  src="https://skillicons.dev/icons?i=[FRAMEWORK_1],[FRAMEWORK_2],[FRAMEWORK_3],[FRAMEWORK_4],[FRAMEWORK_5]&theme=light"
+  src="https://skillicons.dev/icons?i=spring,react,nodejs&theme=light"
   alt="Frameworks and Libraries"
 />
 
@@ -95,7 +52,7 @@ I'm a **[YOUR_ROLE]** based in **[YOUR_LOCATION]**, passionate about creating th
 ### Tools & Technologies
 
 <img
-  src="https://skillicons.dev/icons?i=[TOOL_1],[TOOL_2],[TOOL_3],[TOOL_4],[TOOL_5],[TOOL_6]&theme=light"
+  src="https://skillicons.dev/icons?i=git,github,docker,postgres,vscode,cmake&theme=light"
   alt="Tools and Technologies"
 />
 
@@ -111,7 +68,7 @@ I'm a **[YOUR_ROLE]** based in **[YOUR_LOCATION]**, passionate about creating th
 ## ✦ GitHub Activity
 
 <img
-  src="https://streak-stats.demolab.com?user=[YOUR_USERNAME]&theme=transparent&hide_border=true&background=00000000&stroke=F8BBD0&ring=FF69B4&fire=FF69B4&currStreakNum=EF93C4&sideNums=EF93C4&currStreakLabel=FF69B4&sideLabels=F8BBD0&dates=999999"
+  src="https://streak-stats.demolab.com?user=isabelleezhan&theme=transparent&hide_border=true&background=00000000&stroke=F8BBD0&ring=FF69B4&fire=FF69B4&currStreakNum=EF93C4&sideNums=EF93C4&currStreakLabel=FF69B4&sideLabels=F8BBD0&dates=999999"
   alt="GitHub Streak"
   width="700"
 />
@@ -119,7 +76,7 @@ I'm a **[YOUR_ROLE]** based in **[YOUR_LOCATION]**, passionate about creating th
 <br /><br />
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=[YOUR_USERNAME]&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=F8BBD0&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=isabelleezhan&bg_color=00000000&color=EF93C4&line=FF69B4&point=F8BBD0&area=true&area_color=F8BBD0&hide_border=true"
   alt="GitHub Activity Graph"
   width="95%"
 />
