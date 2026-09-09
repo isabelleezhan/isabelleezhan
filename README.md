@@ -4,57 +4,22 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="[YOUR_DARK_MODE_BANNER_URL]"
+    srcset="art/header-dark.png"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="[YOUR_LIGHT_MODE_BANNER_URL]"
+    srcset="art/header-light.png"
   />
   <img
-    alt="[YOUR_NAME] GitHub Banner"
-    src="[YOUR_LIGHT_MODE_BANNER_URL]"
+    alt="Isabelle Zhan GitHub Banner"
+    src="art/header-dark.png"
     width="100%"
   />
 </picture>
 
 <br />
 
-# Hey there, I'm [YOUR_NAME] ♡
-
-<a href="[YOUR_PORTFOLIO_URL]">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=EF93C4&center=true&vCenter=true&width=700&lines=%5BYOUR+ROLE%5D;%5BYOUR+SPECIALTY%5D;%5BYOUR+INTEREST%5D;Building+beautiful+things+with+code+%E2%99%A1"
-    alt="Typing SVG"
-  />
-</a>
-
-<br /><br />
-
-<a href="https://github.com/[YOUR_USERNAME]?tab=followers">
-  <img
-    src="https://img.shields.io/github/followers/[YOUR_USERNAME]?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=EF93C4&color=FF69B4"
-    alt="GitHub Followers"
-  />
-</a>
-&nbsp;
-<a href="https://github.com/[YOUR_USERNAME]?tab=repositories">
-  <img
-    src="https://img.shields.io/github/stars/[YOUR_USERNAME]?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&logoColor=white&label=Stars&labelColor=EF93C4&color=FF69B4"
-    alt="GitHub Stars"
-  />
-</a>
-&nbsp;
-<img
-  src="https://komarev.com/ghpvc/?username=[YOUR_USERNAME]&style=for-the-badge&color=FF69B4&label=PROFILE+VIEWS"
-  alt="Profile Views"
-/>
-
-<br /><br />
-
-<img
-  src="https://capsule-render.vercel.app/api?type=rect&height=2&color=EF93C4"
-  width="85%"
-/>
+# Hey there, I'm Isabelle ♡
 
 </div>
 
